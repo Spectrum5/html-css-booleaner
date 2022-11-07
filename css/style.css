@@ -36,3 +36,15 @@ main {
 figcaption {
     font-size: 0.7em;
 }
+
+.yellow {
+    background-color: yellow;
+}
+
+ul {
+    padding: 0 15px;
+}
+
+.paragrafo {
+    margin: 6px 0;
+}
