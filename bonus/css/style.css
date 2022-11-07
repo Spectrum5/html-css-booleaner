@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    margin: 10px 0;
+    padding: 0 0.4rem;
+}
+
+#pattern-header {
+    background-color: #4da1ff;
+    background-image: url("../img/pattern.png");
+    background-size: 26%;
+}
+
+#pattern-header img {
+    width: 12%;
+    margin: 12px;
+    padding-top: 2%;
+}
+
+.author {
+    color: gray;
+}
+
+.author.data {
+    font-size: 0.7em;
+}
+
+.container {
+    padding: 0 0.4rem;
+}
+
+figcaption {
+    font-size: 0.7em;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+ul {
+    padding: 0 15px;
+}
+
+.paragrafo {
+    margin: 10px 0;
+}
+
+/* Tabella */
+table {
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+th {
+
+    color: white;
+    background-color: rgba(26,170,230,255)
+}
+
+.light-blue {
+    background-color: rgba(178,230,242,255)
+}
+
+.width {
+    width: 50%;
+}
+/* Fine Tabella */
+
+.gray {
+    color: gray;
+    font-size: 0.9em;
+    margin: 10px 0;
+}
+
+footer {
+    padding: 0 0.4rem;
+}
+
+#monitor {
+    background-image: url("../img/monitor.jpg");
+    background-size: 100%;
+    margin: 10px 0;
+}
+
+#analyst {
+    background-image: url("../img/graph.jpg");
+    background-size: 100%;
+}
+
+footer article {
+    width: 250px;
+    height: 200px;
+}
+
+footer article a {
+    color: white;
+    font-size: 18px;
+    position: relative; top: 10px; left: 15px;
+}
