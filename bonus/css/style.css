@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 80%;
+    margin: auto;
+}
+
 main {
     margin: 10px 0;
     padding: 0 0.4rem;
@@ -29,7 +34,7 @@ main {
     font-size: 0.7em;
 }
 
-.container {
+.title {
     padding: 0 0.4rem;
 }
 
