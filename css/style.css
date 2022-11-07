@@ -46,5 +46,27 @@ ul {
 }
 
 .paragrafo {
-    margin: 6px 0;
+    margin: 10px 0;
 }
+
+/* Tabella */
+table {
+    text-align: left;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
+
+th {
+    color: white;
+    background-color: rgba(26,170,230,255)
+}
+
+.light-blue {
+    background-color: rgba(178,230,242,255)
+}
+
+.width {
+    width: 50%;
+}
+/* Fine Tabella */
