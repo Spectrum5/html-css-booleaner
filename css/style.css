@@ -70,3 +70,35 @@ th {
     width: 50%;
 }
 /* Fine Tabella */
+
+.gray {
+    color: gray;
+    font-size: 0.9em;
+    margin: 10px 0;
+}
+
+footer {
+    padding: 0 0.4rem;
+}
+
+#monitor {
+    background-image: url("../img/monitor.jpg");
+    background-size: 100%;
+    margin: 10px 0;
+}
+
+#analyst {
+    background-image: url("../img/graph.jpg");
+    background-size: 100%;
+}
+
+footer article {
+    width: 250px;
+    height: 200px;
+}
+
+footer article a {
+    color: white;
+    font-size: 18px;
+    position: relative; top: 10px; left: 15px;
+}
