@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pattern-header {
+    background-color: #4da1ff;
+    background-image: url("../img/pattern.png");
+    background-size: 26%;
+}
+
+#pattern-header img {
+    width: 12%;
+    margin: 12px;
+    padding-top: 2%;
+}
